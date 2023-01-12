@@ -1,0 +1,13 @@
+[package]
+description = "Render embedded styles only once per template with Markup Rust template engine"
+edition = "2021"
+license = "MIT"
+name = "markup-css-once"
+repository = "https://github.com/imbolc/markup-css-once"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+markup = "0.13"
+rusty-hook = "0.11"
